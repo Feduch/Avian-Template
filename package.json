@@ -19,6 +19,7 @@
     "pinia": "^2.1.6",
     "prettier": "^3.0.3",
     "tailwind-merge": "^1.14.0",
+    "video.js": "^8.20.0",
     "vue": "^3.3.4",
     "vue-router": "4",
     "wavesurfer.js": "^7.3.0"
